@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mostafa 👨‍💻
 
-<!--
-**mostafa-alq/mostafa-alq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science** student at **University of Westminster**. I’m passionate about **full-stack development**, **AI**, and **problem-solving**. I'm always learning and excited to build things that make a real-world impact. 
 
-Here are some ideas to get you started:
+🔭 **Currently working on:**  
+- Building a **Crypto Tracker App** as a full-stack project  
+- Improving my **algorithm problem-solving** skills on LeetCode  
+- Exploring **Machine Learning** with TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Learning:**  
+- **React** for more interactive UIs  
+- **Node.js** for backend development  
+- **Django** for Python-based full-stack apps  
+
+⚡ **Fun fact:**  
+I’m also a **guitar player**, and I love mixing coding with creativity!
+
+## 🔗 **Find Me Around the Web**
+- 💼 **LinkedIn**: [mostafa-alq](https://www.linkedin.com/in/mostafa-alq/)
+- 🌐 **Portfolio**: [mostafa.dev](https://mostafa.dev)
+- 🐦 **Twitter**: [@mostafa_alq](https://twitter.com/mostafa_alq)
+- 🌍 **Website**: [mostafa.alq](https://mostafa.alq)
+
+## 💬 **Get in Touch**
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about tech!
+
+---
+
+**Let’s code something great! 🚀**
+
