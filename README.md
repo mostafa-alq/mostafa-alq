@@ -17,5 +17,5 @@ I'm a **Computer Science** student and the **President of Coding Society** at th
 I’m also a **guitar player**, and I love mixing coding with creativity!
 
 ## 🔗 **Find Me Around the Web**
-- 💼 **LinkedIn**: [mostafa-alq](https://www.linkedin.com/in/mostafa-alq/)
+- 💼 **LinkedIn**: [mostafa-alq](https://www.linkedin.com/in/mostafa-alqadi-471843238/)
 - 🌍 **Website**: [mostafa.alq](https://mostafa.alq)
